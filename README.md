@@ -1,4 +1,4 @@
-# Array_intersection
+# Array_intersection_program_for_python
 how to print common elements of given arrays
 arr1= [1,2,18,3,8,10,9]
 
